@@ -1,6 +1,6 @@
 # Welcome
 [![Linkedin Badge](https://img.shields.io/badge/-Mauricio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mm-soares/)](https://www.linkedin.com/in/mm-soares/)
-[![Twitter Badge](https://img.shields.io/badge/-@phydev_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/phydev_)](https://twitter.com/phydev_)
+[![Twitter Badge](https://img.shields.io/badge/-@phydev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/phydev_)](https://mastodon.social/@phydev)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Mauricio-Moreira-Soares)
 [![GitHub Badge](https://img.shields.io/github/followers/phydev?style=social)](https://github.com/phydev)
 
