@@ -18,6 +18,6 @@ My gists: https://gist.github.com/phydev
 <!-- statistics are off because github-read-stats are facing a problem in one of their servers. -->
 <!-- check later if it was solved. Latest update: 17.01.2023 -->
 <img src = "https://github-readme-stats.vercel.app/api?username=phydev&show_icons=true&theme="> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phydev&theme=&show_icons=true&hide_border=true&layout=compact" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phydev&theme=&show_icons=true&hide_border=true&layout=compact&hide=jupyter" /> 
 
 <!-- <p> <strike>Don't you hate how jupyter notebooks mess up with the statistics?</strike> <p> -->
