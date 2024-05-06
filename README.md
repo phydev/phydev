@@ -13,6 +13,8 @@ You may notice that my previous field was on developing and implementing mathema
 
 My gists: https://gist.github.com/phydev
 
+*"When software is done right, it requires a fraction of the human resources to create and maintain."*
+- Robert C. Martin
 
 <!-- ### Statistics -->
 <!-- statistics are off because github-read-stats are facing a problem in one of their servers. -->
@@ -20,4 +22,4 @@ My gists: https://gist.github.com/phydev
 <img src = "https://github-readme-stats.vercel.app/api?username=phydev&show_icons=true&theme="> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phydev&theme=&show_icons=true&hide_border=true&layout=compact&hide=jupyter" /> 
 
-<!-- <p> <strike>Don't you hate how jupyter notebooks mess up with the statistics?</strike> <p> -->
+
