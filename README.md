@@ -13,8 +13,7 @@ You may notice that my previous field was on developing and implementing mathema
 
 My gists: https://gist.github.com/phydev
 
-*"When software is done right, it requires a fraction of the human resources to create and maintain."*
-- Robert C. Martin
+*"When software is done right, it requires a fraction of the human resources to create and maintain."* - Robert C. Martin
 
 <!-- ### Statistics -->
 <!-- statistics are off because github-read-stats are facing a problem in one of their servers. -->
