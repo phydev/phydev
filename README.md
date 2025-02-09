@@ -7,9 +7,9 @@
 
 Hi,
 
-I am a computational physicist by training currently working as data scientist in the Norwegian Tax Administration (Skatteetaten). I support the agency data-driven vision by developing machine learning models for various applications.
+I am a computational physicist by training currently working as data scientist in the Norwegian Tax Administration (Skatteetaten). I support the agency data-driven vision by developing ETL pipelines, software tools, machine learning models, and delivering insights for decision making.
 
-Previously, I worked as a researcher on biostatistics, data science and machine learning. I developed projects in the development of prediction models for head and neck cancer. I have experience in several programming languages such as Python, R, Fortran90-20xx, C++, and many data science tools.
+Previously, I worked as a researcher on biostatistics, data science and machine learning. I developed and deployed prediction models for head and neck cancer in the context of the European project [BD4QoL](https://bd4qol.eu). I have experience in several programming languages such as Python, R, Fortran90-20xx, C++, and many data science tools.
 
 You may notice that my previous field was on developing and implementing mathematical models for biological systems, where I used modern Fortran for high performance computing.   
 
