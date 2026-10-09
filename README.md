@@ -4,7 +4,7 @@
 
 Hi,
 
-I am a computational physicist by training currently working as data engineer at CapGemini Norway.
+I am a computational physicist by training currently working as data engineer at Capgemini Norway.
 
 Previously, I worked as data scientist/backend developer in the Norwegian Tax Administration (Skatteetaten). I supported the agency data-driven vision by developing ETL pipelines, software tools, machine learning models, and delivering insights for decision making.
 
